@@ -24,7 +24,7 @@ const nico = {
 
 
 
-<h3 align="center">✨ LINKS ✨</h3>
+<h3 align="center">🚀 LINKS 🚀</h3>
 <p align="center"> <a href=""></a></p>
 
 <hr>
