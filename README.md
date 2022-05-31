@@ -12,7 +12,6 @@ const nico = {
   pronouns: "he" | "his",
   learned: [HTML, CSS, SASS, Bootstrap, Flexbox, Grid, Javascript],
   learning: [Typescript,React,NodeJs,Express,Solidity],
-  otherKnowledge:[GraphicDesign,UX/UI,QA],
   soon: [MongoDB,SQL],
   preferences: {
                 animal: "Cat 😻",
